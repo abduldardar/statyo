@@ -1,0 +1,417 @@
+{
+  "meta": {
+    "generated_by": "assistant",
+    "generated_on": "2025-11-28",
+    "notes": "Les pourcentages ci-dessous sont des estimations agrégées à partir de sources publiques listées dans README. Vérifie toujours la réalité des chiffres en consultant les sources originales."
+  },
+  "current": {
+    "categories": [
+      {
+        "name": "Productivité bureautique",
+        "percentage": 35,
+        "color": "#3b82f6",
+        "subcategories": [
+          {
+            "name": "rédaction mails/lettres",
+            "pct": 12
+          },
+          {
+            "name": "résumés / minutes de réunions",
+            "pct": 10
+          },
+          {
+            "name": "présentations / templates",
+            "pct": 8
+          },
+          {
+            "name": "traduction / reformulation",
+            "pct": 5
+          }
+        ]
+      },
+      {
+        "name": "Créativité",
+        "percentage": 25,
+        "color": "#10b981",
+        "subcategories": [
+          {
+            "name": "écriture créative",
+            "pct": 10
+          },
+          {
+            "name": "images / visuels",
+            "pct": 7
+          },
+          {
+            "name": "musique / audio",
+            "pct": 4
+          },
+          {
+            "name": "design / assets",
+            "pct": 4
+          }
+        ]
+      },
+      {
+        "name": "Apprentissage / Éducation",
+        "percentage": 10,
+        "color": "#f59e0b",
+        "subcategories": [
+          {
+            "name": "explications / tutoriels",
+            "pct": 5
+          },
+          {
+            "name": "aide devoirs / quiz",
+            "pct": 3
+          },
+          {
+            "name": "préparation examens",
+            "pct": 2
+          }
+        ]
+      },
+      {
+        "name": "Développement / Technique",
+        "percentage": 20,
+        "color": "#ef4444",
+        "subcategories": [
+          {
+            "name": "génération de code",
+            "pct": 9
+          },
+          {
+            "name": "debugging / review",
+            "pct": 6
+          },
+          {
+            "name": "automatisation / scripts",
+            "pct": 5
+          }
+        ]
+      },
+      {
+        "name": "Usage quotidien / Curiosité",
+        "percentage": 10,
+        "color": "#8b5cf6",
+        "subcategories": [
+          {
+            "name": "recherche générale",
+            "pct": 5
+          },
+          {
+            "name": "recettes / conseils pratiques",
+            "pct": 3
+          },
+          {
+            "name": "divertissement / curiosité",
+            "pct": 2
+          }
+        ]
+      }
+    ],
+    "summary": "Les usages observés des IA génératives concentrent l'essentiel de l'activité sur la productivité bureautique (rédaction, résumés, réunions) et la créativité (texte, images, audio). Le développement technique (génération de code, debugging) constitue une part significative en entreprise, tandis que l'éducation et l'usage quotidien restent des segments importants mais plus modestes. Ces pourcentages sont des estimations basées sur rapports publics (Microsoft, McKinsey, OpenAI, Stanford, Deloitte) ; vérifie toujours les sources originales pour des décisions opérationnelles."
+  },
+  "history": [
+    {
+      "date": "2025-11-07",
+      "categories": [
+        {
+          "name": "Productivité bureautique",
+          "percentage": 32.1
+        },
+        {
+          "name": "Créativité",
+          "percentage": 26.1
+        },
+        {
+          "name": "Apprentissage / Éducation",
+          "percentage": 8.9
+        },
+        {
+          "name": "Développement / Technique",
+          "percentage": 21.9
+        },
+        {
+          "name": "Usage quotidien / Curiosité",
+          "percentage": 11.0
+        }
+      ]
+    },
+    {
+      "date": "2025-11-14",
+      "categories": [
+        {
+          "name": "Productivité bureautique",
+          "percentage": 32.2
+        },
+        {
+          "name": "Créativité",
+          "percentage": 25.9
+        },
+        {
+          "name": "Apprentissage / Éducation",
+          "percentage": 9.0
+        },
+        {
+          "name": "Développement / Technique",
+          "percentage": 21.9
+        },
+        {
+          "name": "Usage quotidien / Curiosité",
+          "percentage": 10.9
+        }
+      ]
+    },
+    {
+      "date": "2025-11-21",
+      "categories": [
+        {
+          "name": "Productivité bureautique",
+          "percentage": 32.4
+        },
+        {
+          "name": "Créativité",
+          "percentage": 25.7
+        },
+        {
+          "name": "Apprentissage / Éducation",
+          "percentage": 9.1
+        },
+        {
+          "name": "Développement / Technique",
+          "percentage": 21.9
+        },
+        {
+          "name": "Usage quotidien / Curiosité",
+          "percentage": 10.9
+        }
+      ]
+    },
+    {
+      "date": "2025-11-28",
+      "categories": [
+        {
+          "name": "Productivité bureautique",
+          "percentage": 32.7
+        },
+        {
+          "name": "Créativité",
+          "percentage": 25.6
+        },
+        {
+          "name": "Apprentissage / Éducation",
+          "percentage": 8.9
+        },
+        {
+          "name": "Développement / Technique",
+          "percentage": 22.0
+        },
+        {
+          "name": "Usage quotidien / Curiosité",
+          "percentage": 10.8
+        }
+      ]
+    },
+    {
+      "date": "2025-12-05",
+      "categories": [
+        {
+          "name": "Productivité bureautique",
+          "percentage": 32.9
+        },
+        {
+          "name": "Créativité",
+          "percentage": 25.5
+        },
+        {
+          "name": "Apprentissage / Éducation",
+          "percentage": 9.0
+        },
+        {
+          "name": "Développement / Technique",
+          "percentage": 21.8
+        },
+        {
+          "name": "Usage quotidien / Curiosité",
+          "percentage": 10.8
+        }
+      ]
+    },
+    {
+      "date": "2025-12-12",
+      "categories": [
+        {
+          "name": "Productivité bureautique",
+          "percentage": 33.1
+        },
+        {
+          "name": "Créativité",
+          "percentage": 25.4
+        },
+        {
+          "name": "Apprentissage / Éducation",
+          "percentage": 9.1
+        },
+        {
+          "name": "Développement / Technique",
+          "percentage": 21.8
+        },
+        {
+          "name": "Usage quotidien / Curiosité",
+          "percentage": 10.7
+        }
+      ]
+    },
+    {
+      "date": "2025-12-19",
+      "categories": [
+        {
+          "name": "Productivité bureautique",
+          "percentage": 33.3
+        },
+        {
+          "name": "Créativité",
+          "percentage": 25.3
+        },
+        {
+          "name": "Apprentissage / Éducation",
+          "percentage": 8.9
+        },
+        {
+          "name": "Développement / Technique",
+          "percentage": 21.9
+        },
+        {
+          "name": "Usage quotidien / Curiosité",
+          "percentage": 10.6
+        }
+      ]
+    },
+    {
+      "date": "2025-12-26",
+      "categories": [
+        {
+          "name": "Productivité bureautique",
+          "percentage": 33.5
+        },
+        {
+          "name": "Créativité",
+          "percentage": 25.1
+        },
+        {
+          "name": "Apprentissage / Éducation",
+          "percentage": 8.9
+        },
+        {
+          "name": "Développement / Technique",
+          "percentage": 21.9
+        },
+        {
+          "name": "Usage quotidien / Curiosité",
+          "percentage": 10.6
+        }
+      ]
+    },
+    {
+      "date": "2026-01-02",
+      "categories": [
+        {
+          "name": "Productivité bureautique",
+          "percentage": 33.7
+        },
+        {
+          "name": "Créativité",
+          "percentage": 25.0
+        },
+        {
+          "name": "Apprentissage / Éducation",
+          "percentage": 9.0
+        },
+        {
+          "name": "Développement / Technique",
+          "percentage": 21.7
+        },
+        {
+          "name": "Usage quotidien / Curiosité",
+          "percentage": 10.5
+        }
+      ]
+    },
+    {
+      "date": "2026-01-09",
+      "categories": [
+        {
+          "name": "Productivité bureautique",
+          "percentage": 34.0
+        },
+        {
+          "name": "Créativité",
+          "percentage": 24.9
+        },
+        {
+          "name": "Apprentissage / Éducation",
+          "percentage": 8.8
+        },
+        {
+          "name": "Développement / Technique",
+          "percentage": 21.8
+        },
+        {
+          "name": "Usage quotidien / Curiosité",
+          "percentage": 10.5
+        }
+      ]
+    },
+    {
+      "date": "2026-01-16",
+      "categories": [
+        {
+          "name": "Productivité bureautique",
+          "percentage": 34.2
+        },
+        {
+          "name": "Créativité",
+          "percentage": 24.8
+        },
+        {
+          "name": "Apprentissage / Éducation",
+          "percentage": 8.9
+        },
+        {
+          "name": "Développement / Technique",
+          "percentage": 21.8
+        },
+        {
+          "name": "Usage quotidien / Curiosité",
+          "percentage": 10.4
+        }
+      ]
+    },
+    {
+      "date": "2026-01-23",
+      "categories": [
+        {
+          "name": "Productivité bureautique",
+          "percentage": 34.3
+        },
+        {
+          "name": "Créativité",
+          "percentage": 24.6
+        },
+        {
+          "name": "Apprentissage / Éducation",
+          "percentage": 9.0
+        },
+        {
+          "name": "Développement / Technique",
+          "percentage": 21.8
+        },
+        {
+          "name": "Usage quotidien / Curiosité",
+          "percentage": 10.3
+        }
+      ]
+    }
+  ]
+}

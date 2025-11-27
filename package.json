@@ -1,0 +1,12 @@
+{
+  "name": "genai-usage-site",
+  "version": "1.0.0",
+  "description": "Static site showing distribution of generative AI usage by category with weekly updates",
+  "main": "scripts/fetch_data.js",
+  "scripts": {
+    "update": "node scripts/fetch_data.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}

@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Répartition de l’utilisation des IA génératives</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <main class="container">
+    <header>
+      <h1>Répartition de l’utilisation des IA génératives par catégorie et sous-catégorie</h1>
+      <p class="subtitle">Ambiance : zen • design : moderne et aéré</p>
+    </header>
+
+    <section class="charts">
+      <div class="card">
+        <h2>Répartition globale</h2>
+        <canvas id="donutChart" aria-label="Donut chart showing distribution"></canvas>
+        <div id="donutLegend" class="legend"></div>
+      </div>
+
+      <div class="card">
+        <h2>Évolution hebdomadaire (%)</h2>
+        <canvas id="lineChart" aria-label="Line chart showing weekly evolution"></canvas>
+        <p class="note">Mise à jour automatisée : script & workflow GitHub Actions hebdomadaire.</p>
+      </div>
+    </section>
+
+    <section class="summary card">
+      <h3>Résumé des données (estimé) — 200 mots max</h3>
+      <p id="summary"></p>
+    </section>
+
+    <footer>
+      <small>Sources publiques agrégées : Microsoft, OpenAI, McKinsey, Stanford HAI, Deloitte, IDC. Voir README pour détails et méthode.</small>
+    </footer>
+  </main>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
